@@ -11,7 +11,5 @@
 
 ## My stats:
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=alexsincai&count_private=true&show_icons=true&theme=dracula)
-
-![My top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alexsincai&count_private=true&show_icons=true&theme=dracula&layout=compact)
+![My github stats](https://github-readme-stats.vercel.app/api?username=alexsincai&count_private=true&show_icons=true&theme=dracula) ![My top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alexsincai&count_private=true&show_icons=true&theme=dracula&layout=compact)
 
